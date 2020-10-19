@@ -1,10 +1,11 @@
 {
-	"code": 102010,
-	"name": "1.0.2",
-	"content": "",
-	"url": "",
-	"md5": "",
-	"force": 0,
-	"qrcode": "",
-	"create_time": 1600067998
+  "code": 103010,
+  "name": "1.0.3",
+  "content": "界面全新改版，新增签到/工单/购买记录订单查询/修改密码等功能，增加深色模式。",
+  "url": "https://www.isyunyi.com/download/and/planet.apk",
+  "md5": "9c57fc8a34adbf1075e5a229b239ca4f",
+  "force": 0,
+  "qrcode": "https://xn--i8s706c.com/dog.png",
+  "create_time": 1599317246,
+  "create_date": "2020-09-05"
 }
