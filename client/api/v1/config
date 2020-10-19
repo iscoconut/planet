@@ -1,23 +1,25 @@
 {
-	"target": 2,
-	"email": "theme.pluto@gmail.com",
-	"tg": "https://t.me/pluto_theme",
-	"loginless": 1,
-	"loginless_link": "https://aaxc.cc/link/041HIcW1nqXDdVWD?sub=1&lt=2",
-	"code_login": 0,
-	"code_register": 0,
-	"captcha_login": 3,
-	"captcha_register": 1,
-	"captcha_checkin": 3,
-	"notice": 1,
-	"checkin": 1,
-	"line_flag_regex": "",
-	"line_exclude_loc": 1,
-	"payment_config": {
-		"Alipay": "1",
-		"Wechat": "1"
-	},
-	"hosts": [
-		"https://malio.aaxc.cc/"
-	]
+  "key": "malio_planet",
+  "target": 2,
+  "email": "iscoconut@yahoo.com",
+  "tg": "https://t.me/dog_run",
+  "loginless": 0,
+  "loginless_link": "https://www.freedog.pw/appnode.txt",
+  "code_login": 0,
+  "code_register": 1,
+  "captcha_login": 1,
+  "captcha_register": 1,
+  "captcha_checkin": 1,
+  "notice": 1,
+  "checkin": 1,
+  "line_flag_regex": "(^[^-\\s]+)[-\\s]*",
+  "line_exclude_loc": 0,
+  "payment_config": {
+    "Alipay": "2",
+    "Wechat": "2"
+  },
+  "hosts": [
+    "https://www.freedog.pw",
+    "http://kr.nodeapi.club"
+  ]
 }
