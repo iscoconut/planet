@@ -3,7 +3,7 @@
   "target": 2,
   "email": "iscoconut@yahoo.com",
   "tg": "https://t.me/dog_run",
-  "crisp": null,
+  "crisp": "",
   "loginless": 0,
   "loginless_link": "https://www.freedog.pw/appnode.txt",
   "code_login": 0,
@@ -21,7 +21,6 @@
   },
   "malio_plans": 1,
   "hosts": [
-    "https://api.planetapp.cc",
-    "https://kr.nodeapi.club"
+    "https://api.planetapp.cc"
   ]
 }
