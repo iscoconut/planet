@@ -21,6 +21,7 @@
   },
   "malio_plans": 1,
   "hosts": [
-    "https://api.planetapp.cc"
+    "https://api.planetapp.cc",
+    "https://freedog.buzz"
   ]
 }
